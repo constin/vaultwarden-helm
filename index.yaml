@@ -16,6 +16,6 @@ entries:
     - https://github.com/dani-garcia/vaultwarden
     - https://github.com/constin/vaultwarden-helm
     urls:
-    - https://constin.github.io/vaultwarden-helm/vaultwarden-0.1.7.tgz
+    - https://github.com/constin/vaultwarden-helm/releases/download/vaultwarden-helm-0.1.7/vaultwarden-0.1.7.tgz
     version: 0.1.7
 generated: "2022-02-11T12:26:50.066193553+01:00"
