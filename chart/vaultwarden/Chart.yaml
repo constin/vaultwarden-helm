@@ -3,11 +3,10 @@ appVersion: "1.1"
 description: A Bitwarden Helm chart for Kubernetes
 name: vaultwarden
 version: 0.1.8
-home: https://github.com/dani-garcia/vaultwarden
+home: https://github.com/8ball030/vaultwarden-helm
 icon: https://raw.githubusercontent.com/bitwarden/brand/master/icons/icon.svg
 sources:
-  - https://github.com/dani-garcia/vaultwarden
-  - https://github.com/constin/vaultwarden-helm
+  - https://github.com/8ball030/vaultwarden-helm
 maintainers:
-  - name: constin
-    email: constin@gmail.com
+  - name: 8baller
+    email: 8ball030@gmail.com
