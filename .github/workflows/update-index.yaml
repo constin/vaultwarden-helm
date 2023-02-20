@@ -24,4 +24,4 @@ jobs:
           git config --global user.name "8ball030 "
           git add index.yaml
           git commit -m "Update chart index"
-          git push
+          git push 
